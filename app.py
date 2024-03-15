@@ -1,1 +1,1 @@
-print("This is my secondSS version")
+print("This is my secondS version")
